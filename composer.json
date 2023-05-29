@@ -1,0 +1,17 @@
+{
+    "name": "naila/pbwl-project4",
+    "description": "Project 4 Pemrograman Berbasis Web Lanjutan Tahun 2023",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Naila Umniati",
+            "email": "nailaumniati9@gmail.com"
+        }
+    ],
+    "require": {}
+}
